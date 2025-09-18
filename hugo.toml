@@ -1,6 +1,7 @@
-baseURL = "https://example.com/"
+baseURL = "https://geterindia.com/"
 languageCode = "en-us"
-title = "India"
+title = "Geter India"
+publishDir = "docs"
 
 # Keep it bare: no taxonomy pages, etc.
 disableKinds = ["RSS","taxonomy","term","sitemap"]
