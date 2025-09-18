@@ -1,0 +1,30 @@
+:root { --w: 820px; --g: 16px; --text: #222; --muted:#666; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color: var(--text); }
+a { color: inherit; text-decoration: none; border-bottom: 1px solid #ddd; }
+a:hover { border-color: #aaa; }
+
+.site-header, .site-footer { max-width: var(--w); margin: 0 auto; padding: 20px var(--g); }
+.site-header h1 { font-size: 30px; margin: 0; }
+.site-header a { border: none; }
+
+.site-main { max-width: var(--w); margin: 0 auto; padding: 20px var(--g) 60px; }
+
+.hero { display: grid; grid-template-columns: 1fr 1fr; gap: var(--g); margin-bottom: 24px; }
+.hero img { width: 100%; height: 460px; object-fit: cover; border-radius: 8px; }
+
+.intro { margin-bottom: 24px; }
+
+.recipes h2 { margin: 8px 0 12px; }
+.link-list { list-style: none; padding: 0; margin: 0; }
+.link-list li { padding: 8px 0; border-bottom: 1px solid #eee; }
+.link-list li a { border: none; }
+.link-list li a:hover { text-decoration: underline; }
+
+.page h1 { margin-top: 0; }
+.page .back { margin-top: 32px; color: var(--muted); }
+.site-footer { color: var(--muted); border-top: 1px solid #eee; }
+@media (max-width: 700px) {
+  .hero { grid-template-columns: 1fr; }
+  .hero img { height: 200px; }
+}

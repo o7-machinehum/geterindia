@@ -1,0 +1,8 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "India"
+
+# Keep it bare: no taxonomy pages, etc.
+disableKinds = ["RSS","taxonomy","term","sitemap"]
+[permalinks]
+  recipes = "/recipes/:slug/"

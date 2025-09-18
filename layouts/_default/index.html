@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="hero">
+  <img src="/img/mohan.jpeg" alt="Hero image 1">
+  <img src="/img/ryan.jpg" alt="Hero image 2">
+</section>
+
+<section class="intro">
+  {{ with .Content }}{{ . }}{{ end }}
+</section>
+
+<section class="recipes">
+  <h2>Recipes</h2>
+  <ul class="link-list">
+    {{ range where .Site.RegularPages "Section" "recipes" }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

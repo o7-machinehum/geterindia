@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ if .Title }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+  <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+</head>
+<body>
+  {{ if .IsHome }}
+  <header class="site-header">
+    <h1><a href="/">Ever Had Indian Food...?</a></h1>
+    <h2><a href="/">Get er' India!</a></h2>
+  </header>
+  {{ end }}
+  <main class="site-main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <small>&copy; {{ now.Year }} {{ .Site.Title }}</small>
+  </footer>
+</body>
+</html>
