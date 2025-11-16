@@ -15,13 +15,14 @@ title = 'Pancakes'
 	* 1 cup milk (dairy or plant-based)  
 	* 2 tbsp melted butter or oil  
 	* 1 tsp vanilla extract  
+	* 1 egg
 * Butter or oil for cooking  
 * Blueberries
 * Bananas
 
 ### Instructions
-  - **Mix dry ingredients:** In a large bowl, whisk together flour, sugar, baking powder, and salt.  
-  - **Combine wet ingredients:** In another bowl, whisk together milk, melted butter (or oil), and vanilla extract.  
+  - **Mix dry ingredients:** In a large bowl, whisk together dry ingredients 
+  - **Combine wet ingredients:** In another bowl, whisk together wet ingredients 
   - **Make the batter:** Pour the wet mixture into the dry ingredients and stir gently until just combined. Do not overmix—some small lumps are fine.  
   - **Cook the pancakes:** Heat a lightly oiled skillet or griddle over medium heat. Pour about ¼ cup of batter per pancake onto the skillet.  
   - **Flip when bubbles form:** Cook until bubbles appear on the surface and the edges look set, then flip and cook for another 1–2 minutes until golden brown.  

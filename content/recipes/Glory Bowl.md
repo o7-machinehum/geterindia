@@ -3,6 +3,8 @@ date = '2025-09-18T09:52:43+02:00'
 draft = false
 title = 'Glory Bowl'
 +++
+
+Adapted from: https://whitewatercooks.com/portfolio_page/glory-bowl/
 ### Ingredients (sauce)
 * ½ cup nutritional yeast flakes  
 * ⅓ cup water  
