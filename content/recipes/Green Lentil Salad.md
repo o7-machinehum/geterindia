@@ -4,6 +4,8 @@ draft = false
 title = 'Green Lentil Salad'
 +++
 
+{{< figure src="/img/green-lentil-salad.jpg" width="50%" >}}
+(Before mixing)
 ### Ingredients (Dressing)
 * 3 tbsp olive oil
 * 2 tbsp red wine vinegar or lemon juice
