@@ -21,6 +21,7 @@ title = 'Green Lentil Salad'
 * 1 small red onion, finely diced
 * 1 small cucumber, diced
 * 1 red or yellow bell pepper, diced
+* Jerry tomatos
 * 50–80 g feta cheese, crumbled (optional, skip for vegan)
 * Small bunch fresh parsley, chopped (about ½ cup packed)
 * Small handful fresh mint, chopped (optional)

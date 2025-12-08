@@ -4,13 +4,13 @@ draft = false
 title = 'Hungarian Goulash Soup (Gulyásleves)'
 +++
 
-##
+## Hungarian Goulash Soup
 
 ### Ingredients
 
 * Beef & Base
   * 500–700g stewing beef or white beans for veggie.
-  * 2–3 garlic cloves, minced
+  * 2 garlic cloves, minced
   * 2 tbsp tomato paste
 
 * Spices
@@ -24,8 +24,8 @@ title = 'Hungarian Goulash Soup (Gulyásleves)'
   * 1 large onion, sliced
   * 2 carrots, sliced
   * 1 parsnip, sliced (optional but traditional)
-  * 1 green bell pepper, diced
-  * 2 medium potatoes, diced
+  * 1 green, red and yellow bell pepper, chopped
+  * 2 medium potatoes, chopped
 
 * Liquid
   * 1–1.2 L beef broth or water
