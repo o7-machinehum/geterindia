@@ -10,14 +10,14 @@ There's also some bullshit nonsense available on the internet saying soy is high
 
 {{< figure src="/img/soy_chunk_stirfry.jpg" width="50%" >}}
 ### Ingredients
-* 50 g dried soy chunks, rehydrated
-* 1 tsp olive oil
+* 50 g dried soy chunks
+* 2-4 tbsp vegetable oil
 * 1 small onion, sliced
 * 1 bell pepper, chopped
 * 1 small carrot, julienned
 * 1 head of broccoli 
-* 1–2 cloves garlic, minced
-* 1 tsp soy sauce (low sodium)
+* 2–4 cloves garlic, minced
+* 1 tbsp soy sauce (low sodium)
 * ½ tsp chili flakes
 * Salt & pepper to taste
 * Optional: Sesame seeds. I used wasabi flavored. 
@@ -26,7 +26,8 @@ There's also some bullshit nonsense available on the internet saying soy is high
 
 ### Instructions
 - **Rehydrate Soy Chunks:** Soak soy chunks in hot water for 15–20 min, squeeze out excess water.
-- **Sauté Veggies:** Heat oil in a pan, cook onion and garlic until translucent.
-- **Cook Vegetables:** Add bell pepper, carrot, and broccoli; stir-fry 3–4 minutes.
-- **Add Soy Chunks & Seasoning:** Mix in soy chunks, soy sauce, chili flakes, salt, and pepper; stir-fry 5–7 minutes.
-- **Serve:** Garnish with fresh coriander. Optional: serve over quinoa or brown rice.
+- **Fry Soy Chunks:** Heat oil in a pan, drop in soy chunks and brown. Remove from pan.
+- **Sauté Veggies:** Reduce heat, cook onion and garlic until translucent in oil.
+- **Cook Vegetables:** Add bell pepper, carrot, and broccoli; increase heat and stir-fry until veggies have a nice bite. 
+- **Add Soy Chunks & Seasoning:** Mix back in soy chunks, soy sauce, chili flakes, salt, and pepper; cook on high for another minute.
+- **Serve:** Garnish with fresh coriander. Serve over quinoa or brown rice.
