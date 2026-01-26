@@ -4,8 +4,6 @@ draft = false
 title = 'Miso–Maple Glazed Tofu Roast'
 +++
 
-{{< figure src="/img/Final.jpg" width="100%" >}}
-
 A festive, savory-sweet tofu roast with deep umami from miso and a caramelized maple glaze. Firm, satisfying, and ideal as a vegetarian Christmas main.
 
 ### Ingredients

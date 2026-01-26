@@ -3,29 +3,28 @@ date = '2025-09-18T09:52:43+02:00'
 draft = false
 title = 'Atakilt Wat (Ethiopian Cabbage, Potato & Carrots)'
 +++
-{{< figure src="/img/Final.jpg" width="100%" >}}
 
-**Atakilt Wat** is a classic Ethiopian vegetable stew made with cabbage, potatoes, and carrots, gently spiced and slow-cooked until tender. 
+**Atakilt Wat** is a classic Ethiopian vegetable stew made with cabbage, potatoes, and carrots, gently spiced and slow-cooked until tender.
 
 ### Spices
-- 1/4 tsp cumin powder  
-- 1/2–3/4 tsp turmeric powder  
-- 1/4 tsp fenugreek seeds or powder  
-- 1/4 tsp ground cardamom  
-- 1/4 tsp ground cinnamon  
-- 1/8 tsp ground cloves  
-- Generous dash black pepper  
+- 1/4 tsp cumin powder
+- 1/2–3/4 tsp turmeric powder
+- 1/4 tsp fenugreek seeds or powder
+- 1/4 tsp ground cardamom
+- 1/4 tsp ground cinnamon
+- 1/8 tsp ground cloves
+- Generous dash black pepper
 
 ### Ingredients
-- 2 tsp olive oil or vegan butter, divided  
-- 2 cloves garlic, minced  
-- 1 tsp minced ginger  
-- 1 green chili, chopped (optional)  
-- 1/2 cup chopped onion  
-- 3/4 cup carrots, sliced  
-- 2 medium potatoes, chopped  
-- 1/2 head green cabbage, finely chopped  
-- 1/2 tsp salt (to taste)  
+- 2 tsp olive oil or vegan butter, divided
+- 2 cloves garlic, minced
+- 1 tsp minced ginger
+- 1 green chili, chopped (optional)
+- 1/2 cup chopped onion
+- 3/4 cup carrots, sliced
+- 2 medium potatoes, chopped
+- 1/2 head green cabbage, finely chopped
+- 1/2 tsp salt (to taste)
 
 ### Instructions
 - **Sauté aromatics:** Heat 1 tsp oil in a large skillet over medium-low heat. Add garlic, ginger, chili, and onion. Cook for ~4 minutes until fragrant and softened.
