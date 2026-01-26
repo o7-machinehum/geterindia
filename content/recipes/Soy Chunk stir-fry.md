@@ -3,6 +3,8 @@ date = '2025-12-08T10:15:00+01:00'
 draft = false
 title = 'Spicy Soy Chunk Stir-Fry'
 +++
+Nicola notes: garnish with green onion, no carrots, 
+
 
 Soy chunks are extremely high in protein, providing over 50 g per 100 g of dry weight, making them one of the richest plant-based protein sources. 
 
@@ -18,6 +20,7 @@ There's also some bullshit nonsense available on the internet saying soy is high
 * 1 head of broccoli 
 * 2–4 cloves garlic, minced
 * 1 tbsp soy sauce (low sodium)
+* Green onion
 * ½ tsp chili flakes
 * Salt & pepper to taste
 * Optional: Sesame seeds. I used wasabi flavored. 
@@ -30,4 +33,4 @@ There's also some bullshit nonsense available on the internet saying soy is high
 - **Sauté Veggies:** Reduce heat, cook onion and garlic until translucent in oil.
 - **Cook Vegetables:** Add bell pepper, carrot, and broccoli; increase heat and stir-fry until veggies have a nice bite. 
 - **Add Soy Chunks & Seasoning:** Mix back in soy chunks, soy sauce, chili flakes, salt, and pepper; cook on high for another minute.
-- **Serve:** Garnish with fresh coriander. Serve over quinoa or brown rice.
+- **Serve:** Garnish with fresh coriander, green onion, and sesame seeds. Serve over quinoa or brown rice.
