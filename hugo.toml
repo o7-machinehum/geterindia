@@ -1,5 +1,5 @@
 baseURL = "https://geterindia.com/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Geter India"
 publishDir = "docs"
 
