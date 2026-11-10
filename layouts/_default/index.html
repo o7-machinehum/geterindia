@@ -11,7 +11,7 @@
 <section class="recipes">
   <h2>Recipes</h2>
   <ul class="link-list">
-    {{ range where .Site.RegularPages "Section" "recipes" }}
+    {{ range (where .Site.RegularPages "Section" "recipes").ByTitle }}
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   </ul>
