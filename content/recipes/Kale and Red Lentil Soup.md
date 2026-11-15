@@ -16,7 +16,7 @@ title = 'Kale and Red Lentil Soup'
 - ½ tsp smoked paprika
 
 ### Ingredients
-* Olive oil
+- Olive oil
 - 1 Medium Yellow onion
 - 500mL (14oz) coconut milk
 - 3 cups vegetable broth
