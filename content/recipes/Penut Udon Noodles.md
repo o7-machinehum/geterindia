@@ -4,25 +4,25 @@ draft = false
 title = 'Penut Udon Noodles'
 +++
 ### Ingredients (Peanut Sauce)
-* 1/3 cup smooth peanut butter
-* 3 tablespoons soy sauce (or tamari for gluten-free)
-* 2 tablespoons rice vinegar
-* 1–2 tablespoons maple syrup or honey (adjust to taste)
-* 1 teaspoon sriracha (optional, adjust for heat)
+* 90 g (⅓ cup) smooth peanut butter
+* 3 tbsp soy sauce (or tamari for gluten-free)
+* 2 tbsp rice vinegar
+* 1–2 tbsp maple syrup or honey (adjust to taste)
+* 1 tsp sriracha (optional, adjust for heat)
 * Juice of 1 lime (optional, for tang)
-* 1/4–1/3 cup water (to thin out the sauce as needed)
+* 60–80 mL (¼–⅓ cup) water (to thin out the sauce as needed)
 
 ### Ingredients
-* 12–14 oz udon noodles (fresh or dry; follow package instructions)
-* 1 block of Tofu
+* 340–400 g (12–14 oz) udon noodles (fresh or dry; follow package instructions)
+* 1 block of tofu, about 400 g (14 oz)
 * 1 red bell pepper, julienned
 * 1 large carrot, peeled and cut into matchsticks
-* 1–2 cups broccoli florets, cut into bite-sized pieces
-* 1 cup snap peas or snow peas, trimmed
-* 1 cup mushrooms (shiitake, cremini, or button), sliced
+* 90–180 g (1–2 cups) broccoli florets, cut into bite-sized pieces
+* 100 g (1 cup) snap peas or snow peas, trimmed
+* 75 g (1 cup) mushrooms (shiitake, cremini, or button), sliced
 * 2 cloves garlic, minced
-* 1 teaspoon fresh ginger, grated
-* 1–2 tablespoons oil (vegetable, canola, or sesame)
+* 1 tsp fresh ginger, grated
+* 1–2 tbsp oil (vegetable, canola, or sesame)
 * Chopped roasted peanuts
 * sliced green onions
 * fresh cilantro

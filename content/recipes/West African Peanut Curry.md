@@ -5,34 +5,34 @@ title = 'West African Peanut Curry'
 +++
 ### Ingredients (Spice Mix)
 * 1 tbsp smoked paprika
-* 1/2–1 tsp cayenne pepper (adjust to taste)
+* ½–1 tsp cayenne pepper (adjust to taste)
 * 1 tsp whole cuman
-* 1 tsp whole coriander 
+* 1 tsp whole coriander
 * 1 bouillon cube (Maggi or similar, optional)
 * Salt and black pepper to taste
 
 ### Ingredients (Aeromatics)
 * 1 tbsp ginger paste
-* 1 tbst garlic paste
+* 1 tbsp garlic paste
 ### Ingredients
 * 1 large onion, diced
 * 1 tbsp tomato paste
-* 1 can (400g) crushed tomatoes
-* 2/3 cup natural peanut butter (unsweetened)
-* 3–4 cups vegetable broth or water
+* 1 can crushed tomatoes, 400 g (14.5 oz)
+* 175 g (⅔ cup) natural peanut butter (unsweetened)
+* 720–950 mL (3–4 cups) vegetable broth or water
 * 1 large sweet potato, peeled and diced
 * 1 eggplant
 * 1–2 handfuls spinach, kale, or collard greens (optional)
 * Juice of 1 lime
 ### Protein Options (Pick One)
-* 1 can black-eyed peas, drained and rinsed
-* 1 block firm or extra-firm tofu, cubed and pan-fried
-* 1 block tempeh, cubed and lightly sautéed or steamed
-* 1.5 cups cooked brown or green lentils
-* 1 cup seitan, cubed
-* 1.5 cups cooked fava beans
-* 1 cup edamame (shelled)
-* 1 cup chopped okra (traditional + adds body, low protein)
+* 1 can black-eyed peas, 400 g (15–15.5 oz), drained and rinsed
+* 1 block firm or extra-firm tofu, about 400 g (14 oz), cubed and pan-fried
+* 1 block tempeh, about 225 g (8 oz), cubed and lightly sautéed or steamed
+* 300 g (1½ cups) cooked brown or green lentils
+* 150 g (1 cup) seitan, cubed
+* 250 g (1½ cups) cooked fava beans
+* 150 g (1 cup) edamame (shelled)
+* 100 g (1 cup) chopped okra (traditional + adds body, low protein)
 
 ### Instructions
   - **Toast the whole spices:** Toast the whole spices until fragrant, then grind them up

@@ -13,14 +13,14 @@ My spin on a classic Chinese dish.
 - 1 tsp soy sauce, plus more to taste
 - Sesame oil, to taste
 - Green onions, for garnish
-- Stock concentrate or bouillon for 500 mL water
+- Stock concentrate or bouillon for 500 mL (2 cups plus 2 tbsp) water
 - 2 eggs
 - Silken tofu, to taste
-- 500 g sweet corn
+- 500 g (18 oz) sweet corn kernels, drained if canned. Allow about 2 standard cans.
 - 1 tbsp cornstarch
 
 ### Instructions
-- **Create Soup Base:** Bring 500 mL of water to a boil and add the stock concentrate or bouillon according to its instructions.
+- **Create Soup Base:** Bring 500 mL (2 cups plus 2 tbsp) of water to a boil and add the stock concentrate or bouillon according to its instructions.
 - **Thicken:** In a separate bowl, mix 2 tbsp water with 1 tbsp cornstarch. Add this slurry to the soup and stir; it should thicken slightly.
 - **Reduce heat to a simmer:** Do it, then add 1 tsp soy sauce.
 - **Cook Eggs**: In a separate bowl, beat two eggs. Once frothy, very slowly drizzle the eggs into the broth; they should form thin strands.

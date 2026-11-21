@@ -6,10 +6,10 @@ title = 'Tahini Sauce'
 Good with vermicelli noodles, chicken, tofu, etc 
 ### Ingredients (Sauce)
 * 1 clove garlic
-* 1 Tsp Tahini
-* 1/2 Tsp soy sauce
-* 1 Tbsp sugar
-* 2 Tsp vinegar
+* 1 tsp Tahini
+* ½ tsp soy sauce
+* 1 tbsp sugar
+* 2 tsp vinegar
 * Red chilli pepper flakes to desired heat 
 * Salt + Pepper to taste
 

@@ -5,15 +5,15 @@ title = 'Dal Makhani'
 +++
 ### Ingredients (Spice Mix)
 * 1 bay leaf
-* 1-inch piece of cinnamon stick
-* 1/2 teaspoon turmeric powder
-* 1 teaspoon Kashmiri red chili powder (for color and mild heat)
-* 1 teaspoon garam masala
-* 1 tablespoon kasuri methi (dried fenugreek leaves), crushed
+* 2.5 cm (1 in) piece of cinnamon stick
+* ½ tsp turmeric powder
+* 1 tsp Kashmiri red chili powder (for color and mild heat)
+* 1 tsp garam masala
+* 1 tbsp kasuri methi (dried fenugreek leaves), crushed
 
 ### Ingredients (Whole Spices)
-* 1 teaspoon cumin seeds
-* 1 teaspoon corriander 
+* 1 tsp cumin seeds
+* 1 tsp corriander
 * 3 cloves
 * 2 Black Cardamom
 ### Aeromatics
@@ -22,20 +22,20 @@ title = 'Dal Makhani'
 * Hot peppers
 
 ### Ingredients
-* 1 cup whole black lentils
-* 200g can of red kidney beans
-* 2 tablespoons ghee or butter
+* 200 g (1 cup) whole black lentils
+* ½ of a 400 g can (½ of a 15–15.5 oz can) of red kidney beans, drained
+* 2 tbsp ghee or butter
 * 1 large onion, finely chopped
-* 1 can of crushed tomatoes
-* 1 tablespoon ginger-garlic paste
-* 1/2 cup cashew cream
+* 1 can crushed tomatoes, 400 g (14.5 oz)
+* 1 tbsp ginger-garlic paste
+* 120 mL (½ cup) cashew cream
 * Fresh cilantro, chopped (for garnish)
-* 2 tablespoons of cane sugar
+* 2 tbsp of cane sugar
 
 
 ### Instructions
 
-  - **Cook Black Lentils**: Add 1 cup lentils, 1.75 cups water. High pressure, 5 mins, natural release. Drain water
+  - **Cook Black Lentils**: Add 200 g (1 cup) lentils, 420 mL (1¾ cups) water. High pressure, 5 mins, natural release. Drain water
   - **Prepare the Whole Spices**: Toast them in a pan, then grind them up. Mix them with the remaining Spices to create final spice mix.
   - **Cook the Onions:** Cook until golden.
   - **Add the Aromatics:** Add oil, garlic and ginger paste, and cook for 2-3 minutes.

@@ -7,17 +7,17 @@ title = 'Red Thai Curry'
 * 10-15 small red dried chili pepper
 * 2 shallot, chopped
 * 6 garlic cloves
-* 2-inch piece of ginger, peeled and chopped
+* 5 cm (2 in) piece of ginger, peeled and chopped
 * 2 stalk of lemongrass, finely chopped
-* Galangal: 2 inches, peeled and chopped (can substitute with ginger if necessary)
-* Kaffir Lime Zest: 1 teaspoon (substitute with regular lime zest if needed)
-* Coriander Roots: 1 tablespoon (or use coriander stems if roots are unavailable)
-* Cilantro (Coriander) Leaves: 1/4 cup, chopped
+* Galangal: 5 cm (2 in), peeled and chopped (can substitute with ginger if necessary)
+* Kaffir Lime Zest: 1 tsp (substitute with regular lime zest if needed)
+* Coriander Roots: 1 tbsp (or use coriander stems if roots are unavailable)
+* Cilantro (Coriander) Leaves: 60 mL (¼ cup), chopped
 * A small bunch of cilantro (including stems)
-* Cumin Seeds: 1 teaspoon, toasted
-* Coriander Seeds: 1 teaspoon, toasted
-* White Peppercorns: 1 teaspoon (or use black peppercorns)
-* Shrimp Paste (Kapi): 1 tablespoon (omit or use a vegetarian substitute for a vegan version)
+* Cumin Seeds: 1 tsp, toasted
+* Coriander Seeds: 1 tsp, toasted
+* White Peppercorns: 1 tsp (or use black peppercorns)
+* Shrimp Paste (Kapi): 1 tbsp (omit or use a vegetarian substitute for a vegan version)
 
 
 #### Red Curry Paste (Instructions)
@@ -31,16 +31,16 @@ title = 'Red Thai Curry'
 
 #### Red Curry
 
-* Red Curry Paste: 3 tablespoons (store-bought or homemade)
-* Coconut Milk: 2 cans (400 ml each), preferably full-fat for a richer curry
-* Protein: 500 grams (about 1 pound) of your choice (chicken, beef, tofu, or shrimp), cut into bite-sized pieces
-* Vegetables: 2 cups of vegetables (e.g., bell peppers, bamboo shoots, green beans, and baby corn)
+* Red Curry Paste: 3 tbsp (store-bought or homemade)
+* Coconut Milk: 2 cans, 400 mL (13.5–14 fl oz) each, preferably full-fat for a richer curry
+* Protein: 500 g (about 1 lb) of your choice (chicken, beef, tofu, or shrimp), cut into bite-sized pieces
+* Vegetables: 480 mL (2 cups) of vegetables (e.g., bell peppers, bamboo shoots, green beans, and baby corn)
 * Basil Leaves: A handful of Thai basil leaves (can substitute with sweet basil if necessary)
-* Fish Sauce: 2 tablespoons, adjust to taste
-* Brown Sugar: 1 tablespoon, adjust to taste
+* Fish Sauce: 2 tbsp, adjust to taste
+* Brown Sugar: 1 tbsp, adjust to taste
 * Kaffir Lime Leaves: 4-5 leaves, torn (optional for extra flavor)
-* Oil: 1 tablespoon, for frying
-* Water: ½ cup, if needed to adjust consistency
+* Oil: 1 tbsp, for frying
+* Water: 120 mL (½ cup), if needed to adjust consistency
 * Lime Juice: From 1 lime, to finish
 
 #### Red Curry (Instructions)

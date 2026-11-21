@@ -4,18 +4,18 @@ draft = false
 title = 'Ethiopian Red Lentils (Misir Wot)'
 +++
 ### Ingredients (Spice Mix)
-* 2 tablespoons berbere spice mix
-* 1/2 teaspoon ground cumin
-* 1/4 teaspoon ground black pepper
+* 2 tbsp berbere spice mix
+* ½ tsp ground cumin
+* ¼ tsp ground black pepper
 
 ### Ingredients
-* 1 cup red lentils (rinsed)
-* 3 cups water or vegetable broth
+* 200 g (1 cup) red lentils (rinsed)
+* 720 mL (3 cups) water or vegetable broth
 * 1 large yellow onion, finely chopped
 * 2 cloves garlic, minced
-* 1-inch piece ginger, minced
-* 2 medium tomatoes, finely chopped (or 3 tablespoons tomato paste)
-* 2 tablespoons niter kibbeh (Ethiopian spiced butter) (or substitute with 2 tablespoons olive oil + pinch fenugreek + pinch cardamom)
+* 2.5 cm (1 in) piece ginger, minced
+* 2 medium tomatoes, finely chopped (or 3 tbsp tomato paste)
+* 2 tbsp niter kibbeh (Ethiopian spiced butter) (or substitute with 2 tbsp olive oil + pinch fenugreek + pinch cardamom)
 * Salt to taste
 
 ### Instructions

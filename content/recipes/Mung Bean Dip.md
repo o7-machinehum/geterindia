@@ -4,11 +4,11 @@ draft = false
 title = 'Mung Bean Dip'
 +++
 
-* 1 1/2 cups / 7 1/2 oz cooked mung beans
-* 2 tablespoons lemon juice
-* 1/2 cup / 120 ml tahini
+* 210 g (1½ cups or 7½ oz) cooked mung beans
+* 2 tbsp lemon juice
+* 120 mL (½ cup) tahini
 * 1 large clove garlic, peeled & smashed
-* 1/2 teaspoon fine grain sea salt=
-* ~1/3 cup water
+* ½ tsp fine grain sea salt=
+* about 80 mL (⅓ cup) water
 
 To serve (any or all of the following): shallot or olive oil drizzle, fried shallots, minced chives, zaatar, baked pita strips*

@@ -4,22 +4,22 @@ draft = false
 title = 'Pad Thai'
 +++
 ### Ingredients (Sauce Mix)
-* 3 tablespoons of soy sauce or tamari (for gluten-free option)
-* 1 tablespoon of tamarind paste
-* 1 tablespoon of sugar (or a sugar substitute like maple syrup)
-* 1 teaspoon of chili sauce or Sriracha (adjust to taste)
-* 1/2 cup of water
+* 3 tbsp of soy sauce or tamari (for gluten-free option)
+* 1 tbsp of tamarind paste
+* 1 tbsp of sugar (or a sugar substitute like maple syrup)
+* 1 tsp of chili sauce or Sriracha (adjust to taste)
+* 120 mL (½ cup) of water
 
 ### Ingredients
-* 8 ounces of flat rice noodles
-* 2 tablespoons of oil (vegetable or canola)
+* 225 g (8 oz) of flat rice noodles
+* 2 tbsp of oil (vegetable or canola)
 * 1 red bell pepper, thinly sliced
 * 1 carrot, julienned or grated
 * 2 green onions, chopped
 * 2 cloves of garlic, minced
-* 1 cup of bean sprouts
-* 1/2 cup of unsalted roasted peanuts, chopped
-* 1/4 cup of fresh cilantro, chopped
+* 100 g (1 cup) of bean sprouts
+* 70 g (½ cup) of unsalted roasted peanuts, chopped
+* 60 mL (¼ cup) of fresh cilantro, chopped
 * 1 lime, cut into wedges=
 * 2 eggs (optional, can be omitted for a vegan version)
 

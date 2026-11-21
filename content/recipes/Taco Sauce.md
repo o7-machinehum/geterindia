@@ -27,7 +27,7 @@ title = 'Taco Sauce'
   - Start cooking the fake meat on the side
   - Seperate pan: Cook down Onions with whole Cumin + bay leaf
   - Add garlic paste with chopped jalapeno
-  - Add 2tbsp (NOT MORE) Tomato paste
+  - Add 2 tbsp (NOT MORE) Tomato paste
   - Activate Paprika
   - Add water, immersion blend (not bay leaf)
   - Mix in meat, add Fresh herbs

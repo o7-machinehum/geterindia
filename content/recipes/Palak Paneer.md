@@ -4,19 +4,19 @@ draft = false
 title = 'Palak Paneer'
 +++
 ### Ingredients (Spices)
-* 1-2tsp whole/ground cuman
-* 1-2tsp whole/ground coriander
-* 2 cloves, or 1/4 tsp ground cloves  
-* 1/2 teaspoon turmeric powder
-* 1/2 teaspoon garam masala
-* 1/4 teaspoon red chili powder (optional)
+* 1–2 tsp whole/ground cuman
+* 1–2 tsp whole/ground coriander
+* 2 cloves, or ¼ tsp ground cloves
+* ½ tsp turmeric powder
+* ½ tsp garam masala
+* ¼ tsp red chili powder (optional)
 
 ### Ingredients
 * 1-2 green chilies, finely chopped (adjust to taste)
 * 4-5 garlic cloves, minced
-* 1 inch piece of ginger, minced
-* 250 grams of paneer, cubed
-* 500 grams of spinach, fresh or frozen
+* 2.5 cm (1 in) piece of ginger, minced
+* 250 g (9 oz) of paneer, cubed
+* 500 g (18 oz) of spinach, fresh or frozen
 * 1 medium yellow onion, finely chopped
 * 4 tbsp tomato paste
 * Cream or coconut milk (to taste)
@@ -28,8 +28,8 @@ title = 'Palak Paneer'
   
 ### Instructions
   - **Prepare the Spinach:** wash thoroughly to remove any dirt. Blanch the spinach in boiling water for 2-3 minutes, then plunge into ice water. This helps retain the vibrant green color. Drain the spinach and puree it in a blender to make a smooth paste. Set aside.
-  - **Fry the Paneer:** Heat 1 tablespoon of oil in a pan. Lightly fry the paneer cubes until golden brown. Set aside on a paper towel to drain excess oil.
-  - **Add the onion:** Heat 2-4 tablespoon of oil in a pan. Add the onion and cook until golden brown 7-10mins.
+  - **Fry the Paneer:** Heat 1 tbsp of oil in a pan. Lightly fry the paneer cubes until golden brown. Set aside on a paper towel to drain excess oil.
+  - **Add the onion:** Heat 2–4 tbsp of oil in a pan. Add the onion and cook until golden brown 7-10mins.
   - **Cook the Aeromatics:** Reduce heat to medium/low and add the ginger, garlic and chili peppers to a pot and cook for 1-2mins.
   - **Add Spices:** Add the Spice Mix and toast until fragrant.
   - **Add tomato paste:** Let simmer for 10 mins, making the masala.

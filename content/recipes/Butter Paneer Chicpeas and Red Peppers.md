@@ -15,7 +15,7 @@ Whole spices...
 *OR*
 
 * 4 cloves garlic
-* 1-inch piece of ginger
+* 2.5 cm (1 in) piece of ginger
 
 ### Ingredients (Spice Mix)
 *Ingredients in bold are required; the others are optional.*
@@ -32,8 +32,8 @@ Whole spices...
 * Chili powder to taste
 
 ### Ingredients
-* 400 g paneer
-* 250 g canned chickpeas
+* 400 g (14 oz) paneer
+* 250 g (9 oz) drained chickpeas, about one 400 g can (one 15–15.5 oz can)
 * 4 medium onions
 * 1 red bell pepper
 * Cilantro for garnish
@@ -48,7 +48,7 @@ Whole spices...
 * **Activate all spices:** In the main pot over medium-high heat, push everything to one side, add 1–2 tbsp of oil, and cook the spices (except the fenugreek leaves and red chili powder) in the oil until fragrant, about 1 minute.
 * **Add tomato paste:** Mix it in to finish the masala.
 * **Add chickpeas:** Reduce the heat and add the chickpeas.
-* **Add cream:** Add 1/4 cup of cream. If you want it creamier, add more.
+* **Add cream:** Add 60 mL (¼ cup) of cream. If you want it creamier, add more.
 * **Add paneer:** Cube the paneer, add it to the pot, and simmer on low for as long as possible.
 * **Add red pepper:** Add the thinly julienned red pepper. I like it firm in the dish.
 * **Finish:** Season with fenugreek leaves, salt, pepper and chili powder to taste.

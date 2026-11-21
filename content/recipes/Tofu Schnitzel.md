@@ -4,21 +4,21 @@ draft = false
 title = 'Tofu Schnitzel'
 +++
 ### Ingredients
-* 1 block firm or extra-firm tofu (pressed)
-* 1 cup all-purpose flour
-* 1 cup breadcrumbs (panko works best for extra crispiness)
+* 1 block firm or extra-firm tofu, about 400 g (14 oz), pressed
+* 120 g (1 cup) all-purpose flour
+* 50 g (1 cup) panko or 110 g (1 cup) regular dried breadcrumbs (panko works best for extra crispiness)
 * 1 tsp garlic powder
 * 1 tsp smoked paprika
 * ½ tsp salt
 * ½ tsp black pepper
-* ½ cup plant-based milk (unsweetened)
+* 120 mL (½ cup) plant-based milk (unsweetened)
 * 2 tbsp soy sauce
 * 2 tbsp nutritional yeast (optional)
 * Oil for frying (canola or sunflower oil works well)
 
 
 ### Instructions
-  - **Press the tofu:** Remove excess moisture by pressing the tofu block for at least 15-20 minutes. Once pressed, slice the tofu into ¼ inch thick cutlets.
+  - **Press the tofu:** Remove excess moisture by pressing the tofu block for at least 15-20 minutes. Once pressed, slice the tofu into 6 mm (¼ in) thick cutlets.
   - ** Marinate the tofu: **  In a shallow bowl, mix the soy sauce and plant-based milk. Marinate the tofu slices for about 10-15 minutes, ensuring both sides absorb the flavors.
   - ** Prepare the breading station: ** Bowl 1: Place the flour mixed with garlic powder, smoked paprika, salt, and pepper. Bowl 2: Pour the remaining plant-based milk or soy sauce marinade. Bowl 3: Mix the breadcrumbs and nutritional yeast (optional for extra flavor and a cheesy taste).
   - **Bread the tofu:** Take each tofu slice, coat it in the flour mixture, dip it in the milk mixture, and finally press it into the breadcrumbs, making sure the tofu is fully coated.
@@ -27,16 +27,16 @@ title = 'Tofu Schnitzel'
 ## Gravy Schnitzel
 
 ### Ingredients
-* 2 tablespoons butter
-* 1 tablespoon olive oil
+* 2 tbsp butter
+* 1 tbsp olive oil
 * 1 small onion, finely chopped
-* 2 cups mushrooms, sliced (white button or cremini work well)
-* 2 tablespoons all-purpose flour
-* 1 1/2 cups vegetable or beef broth (depending on preference)
-* 1/2 teaspoon soy sauce (optional, for added depth)
-* 1/2 teaspoon thyme or rosemary (optional)
+* 150 g (2 cups) mushrooms, sliced (white button or cremini work well)
+* 2 tbsp all-purpose flour
+* 360 mL (1½ cups) vegetable or beef broth (depending on preference)
+* ½ tsp soy sauce (optional, for added depth)
+* ½ tsp thyme or rosemary (optional)
 * Salt and pepper to taste
-* 1/4 cup heavy cream (optional, for a creamier gravy)
+* 60 mL (¼ cup) heavy cream (optional, for a creamier gravy)
 
 ### Instructions
   - Heat the butter and olive oil in a large skillet over medium heat.

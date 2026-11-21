@@ -7,7 +7,7 @@ title = 'Green Thai Curry'
 * 1-2 small green chilies, adjust to taste
 * 1 shallot, chopped
 * 2 garlic cloves
-* 1-inch piece of ginger, peeled and chopped
+* 2.5 cm (1 in) piece of ginger, peeled and chopped
 * 1 stalk of lemongrass, finely chopped
 * A small bunch of cilantro (including stems)
 * 1/2 lime, zest and juice
@@ -15,14 +15,14 @@ title = 'Green Thai Curry'
 * 1 tsp ground cumin
 
 #### For the Curry 
-* 400 ml coconut milk
-* 200 ml fish stock
+* 1 can coconut milk, 400 mL (13.5–14 fl oz)
+* 200 mL (about ¾ cup plus 1 tbsp) fish stock
 * 1 tbsp soy sauce (or tamari for gluten-free)
 * 1 tsp fish sauce
 * 1 tbsp brown sugar
 * A mix of vegetables such as bell pepper, zucchini, carrots, and broccoli, chopped
 * A handful of green beans, trimmed
-* 1 cup of tofu, cubed (optional)
+* 150 g (1 cup) of tofu, cubed (optional)
 * Fresh thai basil leaves
 
 
@@ -36,4 +36,4 @@ title = 'Green Thai Curry'
   - Serve the curry hot over steamed rice or noodles. Garnish with fresh basil leaves.
 
 #### Notes
-* 1TSP Fish source with soy sauce
+* 1 tsp Fish source with soy sauce

@@ -4,13 +4,13 @@ draft = false
 title = 'Doenjang Jjigae (Korean Soybean Paste Stew)'
 +++
 ### Ingredients
-* 3 cups water or anchovy broth
-* 2-3 tbsp doenjang
-* 200g tofu, cubed
+* 720 mL (3 cups) water or anchovy broth
+* 2–3 tbsp doenjang
+* 200 g (7 oz, about ½ of a 14 oz block) tofu, cubed
 * 1 zucchini, sliced
 * 1 potato, diced
 * 1/2 onion, chopped
-* 1/2 cup mushrooms (e.g., shiitake or enoki)
+* 40 g (½ cup) mushrooms (e.g., shiitake or enoki)
 * 1 green chili, chopped
 * 1 red chili, chopped
 * 2 garlic cloves, minced

@@ -12,8 +12,8 @@ There's also some bullshit nonsense available on the internet saying soy is high
 
 {{< figure src="/img/soy_chunk_stirfry.jpg" width="50%" >}}
 ### Ingredients
-* 50 g dried soy chunks
-* 2-4 tbsp vegetable oil
+* 50 g (about 2 oz) dried soy chunks
+* 2–4 tbsp vegetable oil
 * 1 small onion, sliced
 * 1 bell pepper, chopped
 * 1 small carrot, julienned
@@ -25,7 +25,7 @@ There's also some bullshit nonsense available on the internet saying soy is high
 * Salt & pepper to taste
 * Optional: Sesame seeds. I used wasabi flavored. 
 * Optional: Coriander for garnish
-* Optional: ½ cup cooked quinoa or brown rice
+* Optional: 90 g (½ cup) cooked quinoa or brown rice
 
 ### Instructions
 - **Rehydrate Soy Chunks:** Soak soy chunks in hot water for 15–20 min, squeeze out excess water.

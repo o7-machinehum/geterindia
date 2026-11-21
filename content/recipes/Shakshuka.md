@@ -6,16 +6,16 @@ title = 'Shakshuka'
 ### Ingredients (Spice Mix)
 * 1 tsp ground cumin
 * 1 tsp smoked paprika
-* 1/2 tsp cayenne pepper (optional)
+* ½ tsp cayenne pepper (optional)
 
 ### Ingredients
 * 2 tbsp olive oil
 * 2 tbsp harissa paste*, see note
-* 1 cup fresh spinach, chopped
+* 30 g (1 cup) fresh spinach, chopped
 * 1 medium onion, finely chopped
 * 1 red bell pepper, seeded and chopped
 * 3 garlic cloves, minced
-* 1 can (28 oz) crushed tomatoes
+* 2 cans crushed tomatoes, 400 g each (one 28 oz can)
 * Salt and pepper, to taste
 * 4-6 eggs
 * Fresh cilantro or parsley, chopped (for garnish)

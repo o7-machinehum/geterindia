@@ -17,13 +17,13 @@ title = 'Green Lentil Salad'
 * Black pepper, to taste
 
 ### Ingredients
-* 250 g green lentils (Puy or regular, uncooked; ~1 cup)
+* 250 g (9 oz or about 1¼ cups) green lentils (Puy or regular, uncooked)
 * 1 small red onion, finely diced
 * 1 small cucumber, diced
 * 1 red or yellow bell pepper, diced
 * Jerry tomatos
-* 50–80 g feta cheese, crumbled (optional, skip for vegan)
-* Small bunch fresh parsley, chopped (about ½ cup packed)
+* 50–80 g (2–3 oz) feta cheese, crumbled (optional, skip for vegan)
+* Small bunch fresh parsley, chopped, about 30 g (½ cup packed)
 * Small handful fresh mint, chopped (optional)
 * 1–2 tbsp olive oil (for tossing after cooking lentils)
 * Salt, to taste

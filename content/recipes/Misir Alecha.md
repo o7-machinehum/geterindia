@@ -4,21 +4,21 @@ draft = false
 title = 'Ethiopian Green Lentils with Spinach (Alicha Style)'
 +++
 ### Ingredients (Spice Mix)
-* 1 teaspoon turmeric powder
-* 1/2 teaspoon ground cumin
-* 1/4 teaspoon ground black pepper
+* 1 tsp turmeric powder
+* ½ tsp ground cumin
+* ¼ tsp ground black pepper
 * Pinch of ground fenugreek (optional)
 
 ### Ingredients
-* 1 cup green lentils (rinsed)
-* 3 cups water or vegetable broth
-* 2 cups fresh spinach, chopped
+* 200 g (1 cup) green lentils (rinsed)
+* 720 mL (3 cups) water or vegetable broth
+* 60 g (2 cups) fresh spinach, chopped
 * 1 medium onion, finely chopped
 * 2 cloves garlic, minced
-* 1-inch piece ginger, minced
-* 2 tablespoons niter kibbeh (Ethiopian spiced butter)  
-    (or substitute with 2 tablespoons olive oil + pinch fenugreek + pinch cardamom)
-* 1 tablespoon lemon juice (optional, for brightness)
+* 2.5 cm (1 in) piece ginger, minced
+* 2 tbsp niter kibbeh (Ethiopian spiced butter),
+    or substitute with 2 tbsp olive oil + pinch fenugreek + pinch cardamom
+* 1 tbsp lemon juice (optional, for brightness)
 * Salt to taste
 
 ### Instructions

@@ -9,12 +9,12 @@ title = 'Hungarian Goulash Soup (Gulyásleves)'
 ### Ingredients
 
 * Beef & Base
-  * 500–700g stewing beef or white beans for veggie.
+  * 500–700 g (about 1–1½ lb) stewing beef or the same drained weight of canned white beans for veggie, about 2–3 standard cans.
   * 2 garlic cloves, minced
   * 2 tbsp tomato paste
 
 * Spices
-  * 1.5 tbsp sweet Hungarian paprika (normal paprika works in a pinch)
+  * 1½ tbsp sweet Hungarian paprika (normal paprika works in a pinch)
   * 1 tsp caraway seeds (less important)
   * 1 bay leaf
   * Salt & pepper to taste
@@ -28,7 +28,7 @@ title = 'Hungarian Goulash Soup (Gulyásleves)'
   * 2 medium potatoes, chopped
 
 * Liquid
-  * 1–1.2 L beef broth or water
+  * 1–1.2 L (4¼–5 cups) beef broth or water
 
 ### Instructions
 

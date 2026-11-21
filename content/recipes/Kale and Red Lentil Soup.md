@@ -7,7 +7,7 @@ title = 'Kale and Red Lentil Soup'
 {{< figure src="/img/kale_red_lentil_soup.jpg" width="50%" >}}
 ### Ingredients (Aromatics)
 - 3 Garlic Cloves
-- 1-inch piece of ginger
+- 2.5 cm (1 in) piece of ginger
 
 ### Ingredients (Spice Mix)
 - 1 tsp ground cumin
@@ -18,10 +18,10 @@ title = 'Kale and Red Lentil Soup'
 ### Ingredients
 - Olive oil
 - 1 Medium Yellow onion
-- 500mL (14oz) coconut milk
-- 3 cups vegetable broth
-- 1 cup dried red lentils (split okay)
-- 100g of kale
+- 500 mL (2 cups plus 2 tbsp) coconut milk, about 1¼ cans of 400 mL (13.5–14 fl oz) each
+- 720 mL (3 cups) vegetable broth
+- 200 g (1 cup) dried red lentils (split okay)
+- 100 g (3½ oz) of kale
 - Salt and Black pepper
 - Cilantro
 - 1 lime

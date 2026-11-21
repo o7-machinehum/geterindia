@@ -5,12 +5,12 @@ title = 'Creamy mushroom & spinach pasta'
 +++
 ### Ingredients
 * 1 small onion, finely chopped
-* 150g baby mushrooms, halved
-* 150g tagliatelle
+* 150 g (5½ oz) baby mushrooms, halved
+* 150 g (5½ oz) tagliatelle
 * 2 garlic cloves, crushed
-* 200g low-fat crème fraîche
-* 15g parmesan or vegetarian alternative, grated=
-* 120g baby spinach
+* 200 g (7 oz) low-fat crème fraîche
+* 15 g (½ oz) parmesan or vegetarian alternative, grated=
+* 120 g (4 oz) baby spinach
 * ½ tsp chilli flakes (optional)
 
 ### Instructions

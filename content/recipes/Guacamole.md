@@ -6,13 +6,13 @@ title = 'Guacamole'
 ## Ingredients
 - 3 ripe avocados
 - 1 lime, juiced
-- 1/2 teaspoon salt
-- 1/2 teaspoon ground cumin (optional)
-- 1/2 teaspoon cayenne pepper (optional)
+- ½ tsp salt
+- ½ tsp ground cumin (optional)
+- ½ tsp cayenne pepper (optional)
 - 1/2 medium onion, finely diced
 - 2 small Roma tomatoes, seeded and diced
 - 1 clove garlic, minced
-- 2 tablespoons fresh cilantro, chopped
+- 2 tbsp fresh cilantro, chopped
 - 1 jalapeño, seeded and minced (optional)
 
 ## Instructions
